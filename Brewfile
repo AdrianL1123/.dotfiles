@@ -1,3 +1,5 @@
+cask 'warp'
+cask "helium-browser"
 # Dependency manager for Cocoa projects
 brew "cocoapods"
 # Fast and simple Node.js version manager
