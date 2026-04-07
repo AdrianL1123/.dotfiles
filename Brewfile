@@ -1,4 +1,6 @@
+# Terminal 
 cask 'warp'
+# Browser
 cask "helium-browser"
 # Dependency manager for Cocoa projects
 brew "cocoapods"
@@ -12,6 +14,8 @@ brew "mole"
 brew "scrcpy"
 # Cross-platform Git credential storage for multiple hosting providers
 cask "git-credential-manager"
+# vsCode 
+cask "visual-studio-code"
 vscode "biomejs.biome"
 vscode "blazejkustra.react-compiler-marker"
 vscode "bradlc.vscode-tailwindcss"
